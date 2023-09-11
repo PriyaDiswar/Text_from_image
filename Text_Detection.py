@@ -16,3 +16,5 @@ read.readtext(img)
 data=read.readtext(img)
 for i in data:
   print(i[1])
+  
+"""Testing"""
